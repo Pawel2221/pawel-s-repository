@@ -1,4 +1,4 @@
-//Connecting CRM data with Google Analytics 4 (BigQuery) with the goal of optimizing marketing campaigns on Accepted_application parameter
+//Merging CRM data with Google Analytics 4 (BigQuery) with the goal of optimizing marketing campaigns on Accepted_application parameter
 
 SELECT
   utm_source,
