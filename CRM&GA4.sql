@@ -1,4 +1,4 @@
-//Connecting CRM data with Google Analytics 4 (in BigQuery)
+//Connecting CRM data with Google Analytics 4 (BigQuery)
 
 SELECT
   utm_source,
